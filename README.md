@@ -1,3 +1,3 @@
 <html>
-  <a href='https://htmlcssforlerning.github.io/MyfirstProject/NASIBA.HTML'>kirish></a>
+  <a href='https://htmlcssforlerning.github.io/MyfirstProject/nasiba.html'>kirish></a>
 </html>
